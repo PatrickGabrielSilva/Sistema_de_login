@@ -46,6 +46,9 @@ O usuário entra na página de cadastro.
 
 O usuário preenche os campos de usuário, e-mail, senha e confirmação de senha.
 
+![image](https://github.com/PatrickGabrielSilva/Sistema_de_login/assets/110678439/a8dda526-8dca-4b16-8644-04a16be95787)
+
+
 
 O sistema verifica se todos os campos estão preenchidos.
 
@@ -54,6 +57,9 @@ O sistema verifica se a senha e a confirmação de senha são iguais.
 
 
 Se todas as validações forem bem-sucedidas, o sistema armazena as informações do usuário e exibe uma mensagem de sucesso.
+
+![image](https://github.com/PatrickGabrielSilva/Sistema_de_login/assets/110678439/5981ded5-6a0e-42a7-bb59-6e30d25298da)
+
 
 
 Caso contrário, o sistema exibe uma mensagem de erro e solicita que o usuário corrija as informações incorretas.
