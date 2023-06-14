@@ -40,3 +40,8 @@ Se as informações de login forem válidas, o sistema redireciona o usuário pa
 
 
 Caso contrário, o sistema exibe uma mensagem de erro e solicita que o usuário tente novamente.
+
+
+
+![image](https://github.com/PatrickGabrielSilva/Sistema_de_login/assets/110678439/4948bd3b-0bbe-4dc9-84d2-ed16626937c1)
+
