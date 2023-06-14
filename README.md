@@ -62,7 +62,7 @@ Cadastro:
 
 
 
-· Caso contrário, o sistema exibe uma mensagem de erro e solicita que o usuário corrija as informações incorretas.
+➥ Caso contrário, o sistema exibe uma mensagem de erro e solicita que o usuário corrija as informações incorretas.
 
 ![image](https://github.com/PatrickGabrielSilva/Sistema_de_login/assets/110678439/f9b16355-8b88-403b-b64a-24b6ac8edb31)
 
