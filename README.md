@@ -40,6 +40,9 @@ Cadastro:
 
 O usuário entra na página de cadastro.
 
+![image](https://github.com/PatrickGabrielSilva/Sistema_de_login/assets/110678439/d90969c1-ed41-4b15-8981-c9ff26f85c75)
+
+
 
 O usuário preenche os campos de usuário, e-mail, senha e confirmação de senha.
 
